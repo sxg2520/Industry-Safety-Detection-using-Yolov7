@@ -8,7 +8,12 @@
 
 
 ## Workflows
-
+- constants
+- config_entity
+- artifact_entity
+- components
+- pipeline
+- app.py
 
 
 
@@ -44,3 +49,7 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+AWS Configurations
+- aws cli download link: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+- aws configure to enter Access Keys into the local environment for the IAM User
